@@ -2,4 +2,4 @@ Comandos de GIT
 git config --list
 
 diego es gay
-
+IZan también
